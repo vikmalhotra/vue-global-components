@@ -1,6 +1,6 @@
 # vue-global-components
 
-In most of the web apps, there are many instances of needing some event-driven functionality that can be used throughout the app. Few examples of such functions are as follows:
+In most of the web apps, there are some functions that are used throughout the app to display important information after a user interaction. Some examples of such functions are:
 
 - snackbar
 - loading indicator
